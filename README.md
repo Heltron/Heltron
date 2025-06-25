@@ -1,60 +1,57 @@
-# 👾 Heltron
+<h1 align="center">👾 Heltron</h1>
 
-Welcome to **Heltron** — your gateway to building, deploying, and automating decentralized bots for the crypto world!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Build+and+Automate+Your+Crypto+Bots;Decentralized+Automation+Starts+Here;Web3+Bots+Made+Easy+%F0%9F%94%9C" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://heltron.fun"><img src="https://img.shields.io/badge/Launch-App-blueviolet?style=flat-square&logo=ethereum" /></a>
+  <a href="https://x.com/Heltron"><img src="https://img.shields.io/twitter/follow/Heltron?style=social" /></a>
+  <a href="https://heltron.gitbook.io/heltron-docs/"><img src="https://img.shields.io/badge/Docs-Gitbook-blue?style=flat-square&logo=bookstack" /></a>
+</p>
 
 ---
 
 ## 🤖 About Heltron
 
-Heltron is a decentralized autonomous organization (DAO) bot platform. Anyone can build, share, and launch custom bots to automate crypto tasks, manage portfolios, monitor on-chain data, snipe airdrops, or even run governance automations — all from a single dashboard.
+**Heltron** is a platform for building decentralized autonomous bots that automate tasks across the crypto ecosystem.
 
-Whether you're a DeFi enthusiast, developer, or DAO operator, Heltron empowers you with tools to:
+Whether you're a DeFi degen, DAO steward, or NFT flipper — Heltron is your launchpad for:
+- ⚡ **No-code/low-code bot creation**
+- 🔁 Automation of Web3 workflows
+- 🛠️ Monitoring, trading, governance, and sniping
+- 🌍 Sharing and discovering community-built bots
 
-- ⚡ **Create and deploy custom crypto bots**
-- 🛠️ Automate trading, notifications, on-chain actions, and more
-- 👥 Join a community-driven bot marketplace
-- 🔒 Stay secure with open-source, transparent logic
-
----
-
-## 🌐 What Can You Build?
-
-- Price, volume, or liquidity monitors  
-- Automated trading or rebalancing strategies  
-- Airdrop/claim snipers  
-- DAO governance voting bots  
-- Portfolio performance alerts  
-- NFT sniping and analytics  
-- **…and much more!**
+> Fully decentralized. Community-driven. On-chain aware.
 
 ---
 
-## 🚀 Get Started
+## 🌟 Features
 
-1. Visit [heltron.ai](https://heltron.ai)  
-2. Connect your wallet  
-3. Pick a template or start from scratch  
-4. Launch your bot and let Heltron handle the rest
-
----
-
-## 💬 Connect & Contribute
-
-- Follow us on [Twitter/X @Heltron](https://x.com/Heltron)
-- Join our [Discord community](#)  
-- Explore our [Docs](#)
-- Submit issues or feature requests here on GitHub
+- 📊 **On-chain market trackers** – price, volume, liquidity
+- 🤖 **Auto-traders** – DEX strategies, rebalancing bots
+- 🪂 **Airdrop claimers** – fast, automatic, and reliable
+- 🗳️ **Governance bots** – vote casting, proposal alerts
+- 🔔 **Custom alerts** – Telegram, Discord, email, or in-app
+- 🧠 **AI + Logic scripting** – build smarter bots using simple logic blocks
 
 ---
 
-## 🛡️ Built for Web3
+## 🕹️ Live Snake Activity (GitHub Contribution)
 
-Heltron is committed to decentralization, transparency, and empowering the next generation of crypto automation.
+> Watch your GitHub contributions come alive!  
+> 🐍 Made with [Platane/snk](https://github.com/Platane/snk)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ---
 
-> _“Don’t just watch the blockchain — make it work for you.”_
+## 🚀 Get Started in 4 Steps
 
----
-
-**Let’s automate crypto, together. 🦾**
+```shell
+1️⃣ Visit ➜ https://heltron.fun  
+2️⃣ Connect ➜ Your wallet (MetaMask, WalletConnect, etc.)  
+3️⃣ Choose ➜ A template or build from scratch  
+4️⃣ Launch ➜ Your bot to the decentralized world  
