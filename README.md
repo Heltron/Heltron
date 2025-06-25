@@ -37,11 +37,6 @@ Whether you're a DeFi degen, DAO steward, or NFT flipper — Heltron is your lau
 
 ---
 
-## 🕹️ Live Snake Activity (GitHub Contribution)
-
-> Watch your GitHub contributions come alive!  
-> 🐍 Made with [Platane/snk](https://github.com/Platane/snk)
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
