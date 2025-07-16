@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://heltron.fun"><img src="https://img.shields.io/badge/Launch-App-blueviolet?style=flat-square&logo=ethereum" /></a>
+  <a href="https://heltron.io"><img src="https://img.shields.io/badge/Launch-App-blueviolet?style=flat-square&logo=ethereum" /></a>
   <a href="https://x.com/Heltron"><img src="https://img.shields.io/twitter/follow/Heltron?style=social" /></a>
   <a href="https://heltron.gitbook.io/heltron-docs/"><img src="https://img.shields.io/badge/Docs-Gitbook-blue?style=flat-square&logo=bookstack" /></a>
 </p>
@@ -46,7 +46,7 @@ Whether you're a DeFi degen, DAO steward, or NFT flipper — Heltron is your lau
 ## 🚀 Get Started in 4 Steps
 
 ```shell
-1️⃣ Visit ➜ https://heltron.fun  
+1️⃣ Visit ➜ https://heltron.io  
 2️⃣ Connect ➜ Your wallet (MetaMask, WalletConnect, etc.)  
 3️⃣ Choose ➜ A template or build from scratch  
 4️⃣ Launch ➜ Your bot to the decentralized world  
